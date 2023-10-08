@@ -7,7 +7,7 @@ cd /home/ec2-user/server
 
 # For Debian/Ubuntu-based systems
   sudo yum install https://rpm.nodesource.com/pub_18.x/nodistro/repo/nodesource-release-nodistro-1.noarch.rpm -y
-    sudo yum install nodejs -y --setopt=nodesource-nodejs.module_hotfixes=1 --skip-broken
+    sudo yum install nodejs -y  --skip-broken
 #_Download_Node_&NPM
 
 yum -y install  npm
