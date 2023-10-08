@@ -6,7 +6,7 @@ cd /home/ec2-user/server
 #_Update_&_Set_Node_Version
 
 # For Debian/Ubuntu-based systems
-   curl -sL https://rpm.nodesource.com/setup_14.x | sudo -E bash -
+   curl -sL https://rpm.nodesource.com/setup_16.x | sudo -E bash -
 
 
 #_Download_Node_&NPM
